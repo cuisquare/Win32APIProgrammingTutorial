@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="simple_window.c">
+    <ClCompile Include="window_click.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
